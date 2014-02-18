@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Friendo.WCFService.WebRole1.FriendoEDM" CodeBehind="FriendoEDM.svc.cs" %>
