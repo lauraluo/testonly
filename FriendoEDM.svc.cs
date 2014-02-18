@@ -20,9 +20,9 @@ namespace Friendo.WCFService.WebRole1
 		return true;
 	}
 	
-	public void Test()
+	    public void Test()
 		{
-			int m  = 0;
+			int m  = 1;
 		}
 		public void Test2()
 		{
