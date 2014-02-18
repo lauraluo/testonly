@@ -18,6 +18,10 @@ namespace Friendo.WCFService.WebRole1
     {
 		public void Test()
 		{
+			int m  = 0;
+		}
+		public void Test2()
+		{
 		}
         /// <summary>
         /// 取得使用者電子報的狀態
