@@ -16,6 +16,9 @@ namespace Friendo.WCFService.WebRole1
 {
     public class FriendoEDM : IFriendoEDM
     {
+		public void Test()
+		{
+		}
         /// <summary>
         /// 取得使用者電子報的狀態
         /// </summary>
