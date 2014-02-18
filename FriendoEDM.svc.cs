@@ -16,7 +16,11 @@ namespace Friendo.WCFService.WebRole1
 {
     public class FriendoEDM : IFriendoEDM
     {
-		public void Test()
+	public bool iam(){
+		return true;
+	}
+	
+	public void Test()
 		{
 		}
         /// <summary>
