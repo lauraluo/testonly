@@ -22,7 +22,7 @@ namespace Friendo.WCFService.WebRole1
 	
 	    public void Test()
 		{
-			int m  = 10;
+			int m  = 15;
 		}
 		public void Test2()
 		{
